@@ -1,0 +1,8 @@
+<application>
+  <component name="MainMenuCollector">
+    <counts>
+      <entry path="File -&gt; Export Settings..." count="1" />
+      <entry path="File -&gt; Sync Settings to JetBrains Account..." count="1" />
+    </counts>
+  </component>
+</application>

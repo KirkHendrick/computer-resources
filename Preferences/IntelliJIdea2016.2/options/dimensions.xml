@@ -1,0 +1,83 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1440.900" x="521" y="124" />
+    <location key="new project wizard.0.0.1440.900" x="366" y="47" />
+    <location key="#Browse_JetBrains_Plugins_.0.0.1440.900" x="321" y="78" />
+    <location key="#Browse_Repositories.0.0.1440.900" x="321" y="78" />
+    <location key="#Plugins.0.0.1440.900" x="333" y="81" />
+    <location key="#Illuminated_Cloud™_(&lt;new_project&gt;).0.0.1440.900" x="380" y="156" />
+    <location key="#Illuminated_Cloud™_(&lt;new_project&gt;).989.-1080.1920.1080" x="1888" y="-961" />
+    <location key="new project wizard.989.-1080.1920.1080" x="1273" y="-1011" />
+    <location key="WELCOME_SCREEN.989.-1080.1920.1080" x="839" y="230" />
+    <location key="com.intellij.ide.util.TipDialog.989.-1080.1920.1080" x="1337" y="-865" />
+    <location key="SettingsEditor.989.-1080.1920.1080" x="1422" y="-984" />
+    <location key="#Project_Structure.989.-1080.1920.1080" x="1437" y="-948" />
+    <location key="SettingsEditor.0.0.1440.900" x="201" y="121" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1440.900" x="438" y="286" />
+    <location key="FileChooserDialogImpl.989.-1080.1920.1080" x="1737" y="-768" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1440.900" x="184" y="120" />
+    <location key="StructurePopup.0.0.1440.900" x="678" y="240" />
+    <location key="findTextDialog.0.0.1440.900" x="139" y="186" />
+    <location key="#Custom_Plugin_Repositories.0.0.1440.900" x="594" y="296" />
+    <location key="IdeErrosDialog.0.0.1440.900" x="253" y="270" />
+    <location key="#Browse_Repositories.0.0.1280.800" x="227" y="71" />
+    <location key="SettingsEditor.0.0.1280.800" x="121" y="72" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1280.800" x="358" y="236" />
+    <location key="WELCOME_SCREEN.0.0.1280.800" x="639" y="230" />
+    <location key="WELCOME_SCREEN.0.0.1440.900" x="719" y="230" />
+    <location key="CommitChangelistDialog2.0.0.1440.900" x="324" y="179" />
+    <location key="findTextDialog.0.0.1920.1080" x="722" y="276" />
+    <location key="#Edit_File_Template.989.-1080.1920.1080" x="1738" y="-714" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1440.900" x="390" y="264" />
+    <location key="SettingsEditor.0.0.1680.1050" x="98" y="23" />
+    <location key="new project wizard.0.0.1680.1050" x="473" y="232" />
+    <location key="#Project_Structure.0.0.1680.1050" x="347" y="50" />
+    <location key="com.intellij.ide.util.TipDialog.-931.-1080.1920.1080" x="-373" y="-719" />
+    <location key="WELCOME_SCREEN.0.0.1680.1050" x="839" y="230" />
+    <location key="findTextDialog.989.-1080.1920.1080" x="1257" y="-1057" />
+    <location key="WebDeployment.AddServerDialog.v.1.989.-1080.1920.1080" x="1725" y="-635" />
+    <location key="CommitChangelistDialog2.989.-1080.1920.1080" x="1555" y="-809" />
+    <location key="Vcs.Push.Dialog.989.-1080.1920.1080" x="1389" y="-891" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1680.1050" x="558" y="361" />
+    <location key="findTextDialog.0.0.1680.1050" x="602" y="261" />
+    <location key="FileChooserDialogImpl.0.0.1680.1050" x="628" y="295" />
+    <location key="#Browse_Repositories.0.0.1680.1050" x="427" y="195" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1680.1050" x="535" y="340" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1680.1050" x="578" y="287" />
+    <location key="FileChooserDialogImpl.-931.-1080.1920.1080" x="-303" y="-785" />
+    <location key="#Notifications.989.-1080.1920.1080" x="2185" y="-802" />
+    <location key="ProcessPopupWindow.0.0.1680.1050" x="1142" y="820" />
+    <location key="WELCOME_SCREEN.-931.-1080.1920.1080" x="839" y="230" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.989.-1080.1920.1080" x="1665" y="-723" />
+    <location key="vcs.readOnlyHandler.ReadOnlyStatusDialog.0.0.1680.1050" x="569" y="388" />
+    <location key="ProcessPopupWindow.989.-1080.1920.1080" x="2424" y="-184" />
+    <size key="StructurePopup.0.0.1440.900" width="412" height="417" />
+    <size key="GridCell.Tab.0.left.0.0.1440.900" width="492" height="225" />
+    <size key="GridCell.Tab.0.center.0.0.1440.900" width="492" height="225" />
+    <size key="GridCell.Tab.0.right.0.0.1440.900" width="492" height="225" />
+    <size key="GridCell.Tab.0.bottom.0.0.1440.900" width="492" height="225" />
+    <size key="javadoc.popup.0.0.1440.900" width="481" height="175" />
+    <size key="GridCell.Tab.0.left.989.-1080.1920.1080" width="1878" height="146" />
+    <size key="GridCell.Tab.0.center.989.-1080.1920.1080" width="1878" height="146" />
+    <size key="GridCell.Tab.0.right.989.-1080.1920.1080" width="1878" height="146" />
+    <size key="GridCell.Tab.0.bottom.989.-1080.1920.1080" width="1878" height="146" />
+    <size key="findTextDialog.0.0.1440.900" width="1058" height="547" />
+    <size key="javadoc.popup.0.0.1680.1050" width="481" height="175" />
+    <size key="findTextDialog.989.-1080.1920.1080" width="1280" height="1057" />
+    <size key="Vcs.Push.Dialog.989.-1080.1920.1080" width="917" height="541" />
+    <size key="findTextDialog.0.0.1680.1050" width="475" height="627" />
+    <size key="SettingsEditor.0.0.1680.1050" width="1445" height="902" />
+    <size key="GridCell.Tab.0.left.-931.-1080.1920.1080" width="1238" height="284" />
+    <size key="GridCell.Tab.0.center.-931.-1080.1920.1080" width="1238" height="284" />
+    <size key="GridCell.Tab.0.right.-931.-1080.1920.1080" width="1238" height="284" />
+    <size key="GridCell.Tab.0.bottom.-931.-1080.1920.1080" width="1238" height="284" />
+    <size key="GridCell.Tab.0.left.0.0.1680.1050" width="1638" height="221" />
+    <size key="GridCell.Tab.0.center.0.0.1680.1050" width="1638" height="221" />
+    <size key="GridCell.Tab.0.right.0.0.1680.1050" width="1638" height="221" />
+    <size key="GridCell.Tab.0.bottom.0.0.1680.1050" width="1638" height="221" />
+    <size key="ProcessPopupWindow.0.0.1680.1050" width="533" height="176" />
+    <size key="javadoc.popup.989.-1080.1920.1080" width="481" height="175" />
+    <size key="SettingsEditor.989.-1080.1920.1080" width="1352" height="676" />
+    <size key="ProcessPopupWindow.989.-1080.1920.1080" width="295" height="110" />
+  </component>
+</application>

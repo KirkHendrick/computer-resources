@@ -1,0 +1,17 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="com.illuminatedcloud.intellij.builder.BuildOptionsDialog$RefreshAction@BuildOptionsDialog" count="23" />
+      <entry action="com.illuminatedcloud.intellij.settings.application.IlluminatedCloudApplicationConnectionsTab$4@ToolbarDecorator" count="1" />
+      <entry action="com.illuminatedcloud.intellij.settings.application.IlluminatedCloudApplicationConnectionsTab$6@ToolbarDecorator" count="1" />
+      <entry action="com.illuminatedcloud.intellij.settings.project.IlluminatedCloudProjectConfigurable$6@ToolbarDecorator" count="2" />
+      <entry action="com.illuminatedcloud.intellij.toolwindow.AbstractToolWindow$ExecuteAction@SoqlQueryToolWindow" count="1" />
+      <entry action="com.illuminatedcloud.intellij.toolwindow.apex.AnonymousApexToolWindow$ExecuteAction@AnonymousApexToolWindow" count="19" />
+      <entry action="com.intellij.find.SearchTextArea$ClearAction@unknown" count="7" />
+      <entry action="com.intellij.openapi.diff.impl.dir.actions.EnableRight@DiffToolbar" count="49" />
+      <entry action="com.intellij.openapi.diff.impl.dir.actions.SynchronizeDiff@DiffToolbar" count="6" />
+      <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="1" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="2" />
+    </counts>
+  </component>
+</application>

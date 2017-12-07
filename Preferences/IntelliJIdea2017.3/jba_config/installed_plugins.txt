@@ -1,0 +1,5 @@
+IdeaVIM
+mobi.hsz.idea.gitignore
+com.illuminatedcloud.intellij
+NodeJS
+com.intellij.plugins.html.instantEditing

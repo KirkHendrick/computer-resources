@@ -1,0 +1,74 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="4" />
+      <entry action="$Delete" count="7" />
+      <entry action="$Paste" count="6" />
+      <entry action="$Undo" count="5" />
+      <entry action="ChangesView.Revert" count="1" />
+      <entry action="CheckForUpdate" count="5" />
+      <entry action="CheckinProject" count="1" />
+      <entry action="ChooseRunConfiguration" count="2" />
+      <entry action="CloseAllEditors" count="25" />
+      <entry action="CloseAllEditorsButActive" count="16" />
+      <entry action="CloseContent" count="1" />
+      <entry action="CodeCompletion" count="2" />
+      <entry action="CollapseAllRegions" count="24" />
+      <entry action="CommentByLineComment" count="347" />
+      <entry action="DebugClass" count="1" />
+      <entry action="EditorBackSpace" count="2285" />
+      <entry action="EditorChooseLookupItem" count="1042" />
+      <entry action="EditorChooseLookupItemReplace" count="52" />
+      <entry action="EditorCopy" count="25" />
+      <entry action="EditorDown" count="68" />
+      <entry action="EditorDuplicate" count="1" />
+      <entry action="EditorEnter" count="14" />
+      <entry action="EditorPaste" count="32" />
+      <entry action="EditorStartNewLine" count="3" />
+      <entry action="EditorTab" count="1497" />
+      <entry action="EditorUp" count="17" />
+      <entry action="ExpandAllRegions" count="1" />
+      <entry action="Find" count="88" />
+      <entry action="FindInPath" count="87" />
+      <entry action="FindUsages" count="4" />
+      <entry action="GotoAction" count="3" />
+      <entry action="GotoClass" count="15" />
+      <entry action="GotoCustomRegion" count="1" />
+      <entry action="GotoDeclaration" count="223" />
+      <entry action="GotoFile" count="648" />
+      <entry action="GotoLine" count="3" />
+      <entry action="HideAllWindows" count="5" />
+      <entry action="IlluminatedCloud.AddToModuleContents" count="4" />
+      <entry action="IlluminatedCloud.ConfigureApplication" count="1" />
+      <entry action="IlluminatedCloud.ConfigureProject" count="3" />
+      <entry action="IlluminatedCloud.ForceSave" count="14" />
+      <entry action="IlluminatedCloud.FullBuild" count="95" />
+      <entry action="IlluminatedCloud.IncrementalBuild" count="82" />
+      <entry action="IlluminatedCloud.Refresh" count="72" />
+      <entry action="IlluminatedCloud.Retrieve" count="20" />
+      <entry action="IlluminatedCloud.SaveAll" count="1766" />
+      <entry action="IlluminatedCloud.ShowMetaXmlFiles" count="1" />
+      <entry action="InsertLiveTemplate" count="4" />
+      <entry action="JumpToLastWindow" count="1" />
+      <entry action="Lightning.NewComponentBundle" count="8" />
+      <entry action="Lightning.NewControllerFile" count="6" />
+      <entry action="Lightning.NewEventBundle" count="2" />
+      <entry action="Lightning.NewHelperFile" count="4" />
+      <entry action="Lightning.NewStyleFile" count="3" />
+      <entry action="NewDir" count="4" />
+      <entry action="NewFile" count="1" />
+      <entry action="NextTemplateVariable" count="2" />
+      <entry action="ParameterInfo" count="3" />
+      <entry action="ReformatCode" count="13" />
+      <entry action="RenameElement" count="2" />
+      <entry action="Run" count="1" />
+      <entry action="SearchEverywhere" count="1" />
+      <entry action="ShowProjectStructureSettings" count="2" />
+      <entry action="SplitVertically" count="22" />
+      <entry action="ToggleLineBreakpoint" count="10" />
+      <entry action="ValidateXml" count="1" />
+      <entry action="Vcs.Push" count="4" />
+      <entry action="editRunConfigurations" count="1" />
+    </counts>
+  </component>
+</application>

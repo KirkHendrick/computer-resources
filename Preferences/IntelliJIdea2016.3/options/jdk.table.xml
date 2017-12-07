@@ -1,0 +1,129 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="IlluminatedCloud (PersonalOrg)" />
+      <type value="IlluminatedCloud" />
+      <version value="201511031443" />
+      <homePath value="$USER_HOME$/IdeaProjects/PersonalOrg/IlluminatedCloud/PersonalOrg" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://$USER_HOME$/IdeaProjects/PersonalOrg/IlluminatedCloud/PersonalOrg/OfflineSymbolTable.zip!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar://$USER_HOME$/IdeaProjects/PersonalOrg/IlluminatedCloud/PersonalOrg/OfflineSymbolTable.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="IlluminatedCloud (jlmr-dev)" />
+      <type value="IlluminatedCloud" />
+      <version value="201511031443" />
+      <homePath value="$USER_HOME$/IdeaProjects/jlmr-dev/IlluminatedCloud/jlmr_dev" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://$USER_HOME$/IdeaProjects/jlmr-dev/IlluminatedCloud/jlmr_dev/OfflineSymbolTable.zip!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar://$USER_HOME$/IdeaProjects/jlmr-dev/IlluminatedCloud/jlmr_dev/OfflineSymbolTable.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="IlluminatedCloud (NHBC-presenter)" />
+      <type value="IlluminatedCloud" />
+      <version value="201511031443" />
+      <homePath value="$USER_HOME$/IdeaProjects/NHBC-presenter/IlluminatedCloud/NHBC_presenter" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://$USER_HOME$/IdeaProjects/NHBC-presenter/IlluminatedCloud/NHBC_presenter/OfflineSymbolTable.zip!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar://$USER_HOME$/IdeaProjects/NHBC-presenter/IlluminatedCloud/NHBC_presenter/OfflineSymbolTable.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="IlluminatedCloud (ICMA-DevR2/ICMA-DevR2)" />
+      <type value="IlluminatedCloud" />
+      <version value="201511031443" />
+      <homePath value="$USER_HOME$/IdeaProjects/ICMA-DevR2/IlluminatedCloud/ICMA_DevR2" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://$USER_HOME$/IdeaProjects/ICMA-DevR2/IlluminatedCloud/ICMA_DevR2/OfflineSymbolTable.zip!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar://$USER_HOME$/IdeaProjects/ICMA-DevR2/IlluminatedCloud/ICMA_DevR2/OfflineSymbolTable.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="IlluminatedCloud (SBA Demo/SBA Demo)" />
+      <type value="IlluminatedCloud" />
+      <version value="201511031443" />
+      <homePath value="$USER_HOME$/IdeaProjects/SBA Demo/IlluminatedCloud/SBA_Demo" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://$USER_HOME$/IdeaProjects/SBA Demo/IlluminatedCloud/SBA_Demo/OfflineSymbolTable.zip!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar://$USER_HOME$/IdeaProjects/SBA Demo/IlluminatedCloud/SBA_Demo/OfflineSymbolTable.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>

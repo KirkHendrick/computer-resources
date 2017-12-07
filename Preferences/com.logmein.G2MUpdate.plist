@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AggressivelyCleanup</key>
+	<false/>
+	<key>G2MBuildNumber</key>
+	<integer>7943</integer>
+	<key>NextActivateCheck</key>
+	<date>2017-12-09T13:51:06Z</date>
+	<key>NextUpdateCheck</key>
+	<date>2017-12-08T01:17:35Z</date>
+	<key>RescheduledUpdateChecks</key>
+	<integer>0</integer>
+	<key>UpdateInfoURL</key>
+	<string>https://builds.cdn.getgo.com/g2mupdater/live/config.json</string>
+</dict>
+</plist>

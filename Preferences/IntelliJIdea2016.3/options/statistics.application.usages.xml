@@ -1,0 +1,232 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="JavaScript versions">
+      <project id="SBA Demo" values="ECMAScript 5.1" collectionTime="1490093763898" />
+      <project id="log" values="ECMAScript 5.1" collectionTime="1483038618745" />
+      <project id="lightning-test-framework" values="ECMAScript 6" collectionTime="1489406398583" />
+      <project id="ICMA-DevR2" values="ECMAScript 5.1" collectionTime="1491568954859" />
+      <project id="functional-sandbox" values="ECMAScript 6" collectionTime="1491576177744" />
+      <project id="ltf-example" values="ECMAScript 5.1" collectionTime="1479743281624" />
+      <project id="wedding-planner-website" values="ECMAScript 5.1" collectionTime="1490012252057" />
+      <project id="plan-kpi-l1" values="ECMAScript 5.1" collectionTime="1474465562258" />
+      <project id="NHBC-presenter" values="ECMAScript 5.1" collectionTime="1485523705349" />
+      <project id="icma" values="ECMAScript 5.1" collectionTime="1473334726164" />
+      <project id="jlmr-dev" values="ECMAScript 5.1" collectionTime="1485524025278" />
+      <project id="node-sandbox" values="ECMAScript 5.1" collectionTime="1489594418975" />
+      <project id="pomodoros" values="ECMAScript 5.1" collectionTime="1475840432503" />
+      <project id="PersonalOrg" values="ECMAScript 6" collectionTime="1479601581364" />
+      <project id="plan-view-tests" values="ECMAScript 6" collectionTime="1487014347282" />
+      <project id="gtd" values="ECMAScript 5.1" collectionTime="1491574046616" />
+      <project id="Sandbox" values="ECMAScript 5.1" collectionTime="1475082409648" />
+    </group>
+    <group name="module type">
+      <project id="SBA Demo" values="IlluminatedCloud" collectionTime="1490093763825" />
+      <project id="log" values="JAVA_MODULE" collectionTime="1483038618676" />
+      <project id="lightning-test-framework" values="JAVA_MODULE" collectionTime="1489406398404" />
+      <project id="ICMA-DevR2" values="IlluminatedCloud" collectionTime="1491568954778" />
+      <project id="functional-sandbox" values="JAVA_MODULE" collectionTime="1491576176316" />
+      <project id="ltf-example" values="JAVA_MODULE" collectionTime="1479743281591" />
+      <project id="wedding-planner-website" values="JAVA_MODULE" collectionTime="1490012252037" />
+      <project id="plan-kpi-l1" values="JAVA_MODULE" collectionTime="1474465562099" />
+      <project id="NHBC-presenter" values="IlluminatedCloud" collectionTime="1485523705208" />
+      <project id="icma" values="JAVA_MODULE" collectionTime="1473334725950" />
+      <project id="jlmr-dev" values="IlluminatedCloud" collectionTime="1485524025261" />
+      <project id="node-sandbox" values="JAVA_MODULE" collectionTime="1489594418925" />
+      <project id="pomodoros" values="JAVA_MODULE" collectionTime="1475840432490" />
+      <project id="PersonalOrg" values="IlluminatedCloud" collectionTime="1479601581339" />
+      <project id="plan-view-tests" values="JAVA_MODULE" collectionTime="1487014347265" />
+      <project id="gtd" values="JAVA_MODULE" collectionTime="1491574046283" />
+    </group>
+    <group name="vcs">
+      <project id="plan-view-tests" values="Git" collectionTime="1487014347265" />
+      <project id="ICMA-DevR2" values="Git" collectionTime="1491568954777" />
+      <project id="ltf-example" values="Git" collectionTime="1479743281591" />
+      <project id="wedding-planner-website" values="Git" collectionTime="1490012252036" />
+      <project id="log" values="Git" collectionTime="1483038618676" />
+      <project id="lightning-test-framework" values="Git" collectionTime="1489406398403" />
+      <project id="pomodoros" values="Git" collectionTime="1475840432490" />
+      <project id="PersonalOrg" values="Git" collectionTime="1479601581339" />
+      <project id="functional-sandbox" values="Git" collectionTime="1491576176315" />
+      <project id="icma" values="Git" collectionTime="1473334725944" />
+      <project id="SBA Demo" values="Git" collectionTime="1490093763824" />
+      <project id="plan-kpi-l1" values="Git" collectionTime="1474465562098" />
+    </group>
+    <group name="VCS Log 2">
+      <project id="plan-view-tests" values="data.branches.count.1+,data.git.root.count.1,data.commit.count.1+" collectionTime="1487014347268" />
+      <project id="ICMA-DevR2" values="data.git.root.count.1,data.commit.count.100+,data.branches.count.1+" collectionTime="1491568954821" />
+      <project id="ltf-example" values="data.git.root.count.1,data.commit.count.1+" collectionTime="1479743281611" />
+      <project id="wedding-planner-website" values="data.branches.count.1+,data.commit.count.1+,data.git.root.count.1" collectionTime="1490012252041" />
+      <project id="log" values="data.commit.count.1+,data.git.root.count.1" collectionTime="1483038618700" />
+      <project id="lightning-test-framework" values="data.commit.count.1+,data.branches.count.1+,data.git.root.count.1" collectionTime="1489406398433" />
+      <project id="pomodoros" values="data.git.root.count.1,data.commit.count.1+" collectionTime="1475840432495" />
+      <project id="PersonalOrg" values="data.git.root.count.1,data.commit.count.1+" collectionTime="1479601581353" />
+      <project id="functional-sandbox" values="data.commit.count.1+,data.git.root.count.1,data.branches.count.1+" collectionTime="1491576176389" />
+      <project id="icma" values="data.commit.count.1+,data.git.root.count.1" collectionTime="1473334725986" />
+      <project id="SBA Demo" values="data.branches.count.1+,data.git.root.count.1,data.commit.count.1+" collectionTime="1490093763870" />
+      <project id="plan-kpi-l1" values="data.commit.count.1+,data.git.root.count.1" collectionTime="1474465562116" />
+    </group>
+    <group name="VCS Log Ui Settings">
+      <project id="icma" values="ui.highlighter.CURRENT_BRANCH.enabled,ui.branches.panel.disabled,ui.details.enabled,ui.long.edges.disabled,ui.highlighter.MY_COMMITS.enabled,ui.sort.bek.disabled,ui.highlighter.MERGE_COMMITS.enabled,ui.sort.linear.bek.disabled,ui.sort.normal.enabled" collectionTime="1473334725988" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="node-sandbox" values="NodeJSConfigurationType" collectionTime="1489594418925" />
+      <project id="lightning-test-framework" values="js.build_tools.gulp" collectionTime="1489406398405" />
+      <project id="ICMA-DevR2" values="com.illuminatedcloud.intellij" collectionTime="1491568954779" />
+      <project id="functional-sandbox" values="NodeJSConfigurationType,js.build_tools.gulp" collectionTime="1491576176318" />
+    </group>
+    <group name="file-type">
+      <project id="SBA Demo" values="XML,UNKNOWN,Lightning,IDEA_MODULE,SObject Type,Images,HTML,JavaScript,PLAIN_TEXT,Apex,JSON,Native,Visualforce,Apex Metadata,ARCHIVE,CSS" collectionTime="1490093763856" />
+      <project id="log" values="Git file,PLAIN_TEXT" collectionTime="1483038618699" />
+      <project id="lightning-test-framework" values="Git file,HTML,Markdown,JavaScript,JSON" collectionTime="1489406398422" />
+      <project id="ICMA-DevR2" values="PLAIN_TEXT,Lightning,Markdown,IDEA_MODULE,Apex Metadata,HTML,Native,XML,ARCHIVE,CSS,JavaScript,Apex,UNKNOWN,Visualforce,Git file,SCSS,Images,JSON" collectionTime="1491568954813" />
+      <project id="functional-sandbox" values="Git file,JavaScript,JSON" collectionTime="1491576176382" />
+      <project id="ltf-example" values="Markdown,JSON Schema,JavaScript,Git file" collectionTime="1479743281611" />
+      <project id="wedding-planner-website" values="UNKNOWN,CSS,Images,JavaScript,XML,SourceMap,HTML" collectionTime="1490012252040" />
+      <project id="plan-kpi-l1" values="JavaScript,Lightning,JSON Schema,PLAIN_TEXT" collectionTime="1474465562113" />
+      <project id="NHBC-presenter" values="ARCHIVE,Apex Metadata,CSS,JavaScript,Lightning,IDEA_MODULE,Visualforce,Apex,XML" collectionTime="1485523705235" />
+      <project id="icma" values="Apex Metadata,JSON Schema,Lightning,JavaScript,CSS,HTML" collectionTime="1473334725968" />
+      <project id="jlmr-dev" values="UNKNOWN,JavaScript,Lightning,ARCHIVE,XML,Apex,Apex Metadata,CSS,Visualforce,IDEA_MODULE" collectionTime="1485524025267" />
+      <project id="node-sandbox" values="JavaScript" collectionTime="1489594418932" />
+      <project id="pomodoros" values="Git file,UNKNOWN,PLAIN_TEXT" collectionTime="1475840432493" />
+      <project id="PersonalOrg" values="Apex,Lightning,Apex Metadata,IDEA_MODULE,JavaScript,JSON Schema,CSS,ARCHIVE,XML,Visualforce,JSON" collectionTime="1479601581351" />
+      <project id="plan-view-tests" values="Images,CSS,HTML,JSON,PLAIN_TEXT,Markdown,JavaScript,Git file" collectionTime="1487014347268" />
+      <project id="gtd" values="Git file,PLAIN_TEXT,Native,UNKNOWN" collectionTime="1491574046364" />
+    </group>
+    <group name="images.ide.background">
+      <project id="SBA Demo" values="editor 0,frame 0" collectionTime="1490093763870" />
+      <project id="log" values="frame 0,editor 0" collectionTime="1483038618700" />
+      <project id="lightning-test-framework" values="editor 0,frame 0" collectionTime="1489406398433" />
+      <project id="ICMA-DevR2" values="editor 0,frame 0" collectionTime="1491568954823" />
+      <project id="functional-sandbox" values="editor=0,frame=0" collectionTime="1491576176390" />
+      <project id="ltf-example" values="editor 0,frame 0" collectionTime="1479743281612" />
+      <project id="wedding-planner-website" values="frame 0,editor 0" collectionTime="1490012252041" />
+      <project id="plan-kpi-l1" values="frame 0,editor 0" collectionTime="1474465562117" />
+      <project id="NHBC-presenter" values="frame 0,editor 0" collectionTime="1485523705252" />
+      <project id="icma" values="frame 0,editor 0" collectionTime="1473334725988" />
+      <project id="jlmr-dev" values="frame 0,editor 0" collectionTime="1485524025267" />
+      <project id="node-sandbox" values="editor 0,frame 0" collectionTime="1489594418933" />
+      <project id="pomodoros" values="frame 0,editor 0" collectionTime="1475840432495" />
+      <project id="PersonalOrg" values="frame 0,editor 0" collectionTime="1479601581353" />
+      <project id="plan-view-tests" values="editor 0,frame 0" collectionTime="1487014347268" />
+      <project id="gtd" values="editor 0,frame 0" collectionTime="1491574046390" />
+      <project id="Sandbox" values="editor 0,frame 0" collectionTime="1475082409644" />
+    </group>
+    <group name="frameworks">
+      <project id="ICMA-DevR2" values="IlluminatedCloud" collectionTime="1491568954778" />
+      <project id="NHBC-presenter" values="IlluminatedCloud" collectionTime="1485523705204" />
+      <project id="PersonalOrg" values="IlluminatedCloud" collectionTime="1479601581339" />
+      <project id="jlmr-dev" values="IlluminatedCloud" collectionTime="1485524025261" />
+      <project id="SBA Demo" values="IlluminatedCloud" collectionTime="1490093763825" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="SBA Demo" values="Project,Project" collectionTime="1490093763898" />
+      <project id="log" values="Project,Project" collectionTime="1483038618745" />
+      <project id="lightning-test-framework" values="Project,Project,Directory,Project,Directory" collectionTime="1489406398583" />
+      <project id="ICMA-DevR2" values="Project,Project" collectionTime="1491568954859" />
+      <project id="functional-sandbox" values="Directory,Project,Project,Project" collectionTime="1491576177744" />
+      <project id="ltf-example" values="Project,Directory,Project" collectionTime="1479743281624" />
+      <project id="wedding-planner-website" values="Project,Project" collectionTime="1490012252057" />
+      <project id="plan-kpi-l1" values="Project,Project,Directory" collectionTime="1474465562258" />
+      <project id="NHBC-presenter" values="Project,Project" collectionTime="1485523705348" />
+      <project id="icma" values="Project,Project,Directory" collectionTime="1473334726163" />
+      <project id="jlmr-dev" values="Project,Project" collectionTime="1485524025278" />
+      <project id="node-sandbox" values="Project,Project" collectionTime="1489594418974" />
+      <project id="pomodoros" values="Project,Project" collectionTime="1475840432503" />
+      <project id="PersonalOrg" values="Project,Directory,Project,Project" collectionTime="1479601581364" />
+      <project id="plan-view-tests" values="Project,Project,Project,Directory" collectionTime="1487014347282" />
+      <project id="gtd" values="Project,Project" collectionTime="1491574046615" />
+      <project id="Sandbox" values="Project,Project" collectionTime="1475082409648" />
+    </group>
+    <group name="Git">
+      <project id="SBA Demo" values="config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.force.push.enabled,data.remotes.in.project.1,data.local.branches.count.1,data.remote.branches.count.1,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled" collectionTime="1490093763881" />
+      <project id="log" values="config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,data.local.branches.count.1,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.ssh.enabled,data.remote.branches.count.1,data.remotes.in.project.1,config.push.autoupdate.disabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1483038618709" />
+      <project id="lightning-test-framework" values="data.remotes.in.project.1,config.force.push.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,data.local.branches.count.2+,config.save.policy.STASH,data.remote.branches.count.2+,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.ssh.enabled" collectionTime="1489406398439" />
+      <project id="ICMA-DevR2" values="data.remotes.in.project.1,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,data.remote.branches.count.1,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,data.local.branches.count.2+,config.save.policy.STASH,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled" collectionTime="1491568954852" />
+      <project id="functional-sandbox" values="data.local.branches.count.1,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,data.remote.branches.count.1,config.push.update.all.roots.enabled,config.ssh.enabled,config.save.policy.STASH,config.force.push.enabled,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1" collectionTime="1491576176414" />
+      <project id="ltf-example" values="config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.ssh.enabled,data.remotes.in.project.1,data.local.branches.count.1,config.cherry-pick.autocommit.disabled,data.remote.branches.count.1,config.repo.sync.NOT_DECIDED,config.save.policy.STASH" collectionTime="1479743281614" />
+      <project id="wedding-planner-website" values="config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,data.remote.branches.count.1,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,data.local.branches.count.1,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,config.force.push.enabled,config.push.autoupdate.disabled" collectionTime="1490012252045" />
+      <project id="plan-kpi-l1" values="config.force.push.enabled,data.remotes.in.project.1,config.cherry-pick.autocommit.disabled,data.local.branches.count.1,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.warn.about.detached.enabled,data.remote.branches.count.1,config.save.policy.STASH,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1474465562121" />
+      <project id="NHBC-presenter" values="config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.push.update.all.roots.enabled" collectionTime="1485523705291" />
+      <project id="icma" values="data.remotes.in.project.1,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.force.push.enabled,data.local.branches.count.1,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,data.remote.branches.count.1,config.save.policy.STASH,config.ssh.enabled" collectionTime="1473334725997" />
+      <project id="jlmr-dev" values="config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled" collectionTime="1485524025273" />
+      <project id="node-sandbox" values="config.warn.about.crlf.enabled,config.ssh.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1489594418954" />
+      <project id="pomodoros" values="data.remote.branches.count.1,data.local.branches.count.1,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.ssh.enabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,data.remotes.in.project.1,config.push.autoupdate.disabled" collectionTime="1475840432498" />
+      <project id="PersonalOrg" values="config.warn.about.crlf.enabled,data.local.branches.count.1,config.force.push.enabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,data.remotes.in.project.1,config.push.autoupdate.disabled,config.save.policy.STASH,data.remote.branches.count.1" collectionTime="1479601581355" />
+      <project id="plan-view-tests" values="config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,config.ssh.enabled,data.remote.branches.count.1,config.save.policy.STASH,config.warn.about.crlf.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,data.local.branches.count.1,config.warn.about.detached.enabled" collectionTime="1487014347272" />
+      <project id="gtd" values="config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.save.policy.STASH,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1491574046485" />
+      <project id="Sandbox" values="config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled" collectionTime="1475082409645" />
+    </group>
+    <group name="language-level">
+      <project id="SBA Demo" values="JDK_1_3" collectionTime="1490093763879" />
+      <project id="log" values="JDK_1_3" collectionTime="1483038618708" />
+      <project id="lightning-test-framework" values="JDK_1_3" collectionTime="1489406398437" />
+      <project id="ICMA-DevR2" values="JDK_1_3" collectionTime="1491568954847" />
+      <project id="functional-sandbox" values="JDK_1_3" collectionTime="1491576176412" />
+      <project id="ltf-example" values="JDK_1_3" collectionTime="1479743281614" />
+      <project id="wedding-planner-website" values="JDK_1_3" collectionTime="1490012252043" />
+      <project id="plan-kpi-l1" values="JDK_1_3" collectionTime="1474465562120" />
+      <project id="NHBC-presenter" values="JDK_1_3" collectionTime="1485523705275" />
+      <project id="icma" values="JDK_1_3" collectionTime="1473334725993" />
+      <project id="jlmr-dev" values="JDK_1_3" collectionTime="1485524025272" />
+      <project id="node-sandbox" values="JDK_1_8" collectionTime="1489594418953" />
+      <project id="pomodoros" values="JDK_1_3" collectionTime="1475840432498" />
+      <project id="PersonalOrg" values="JDK_1_3" collectionTime="1479601581355" />
+      <project id="plan-view-tests" values="JDK_1_3" collectionTime="1487014347272" />
+      <project id="gtd" values="JDK_1_3" collectionTime="1491574046481" />
+      <project id="Sandbox" values="JDK_1_3" collectionTime="1475082409645" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="114" />
+      <entry feature="DSM.Analyze" count="1" />
+      <entry feature="OpenInBrowser.Chrome" count="17" />
+      <entry feature="OpenInBrowser.Firefox" count="1" />
+      <entry feature="StripeButton[Anonymous Apex].hidden" count="1" />
+      <entry feature="StripeButton[Ant Build].hidden" count="4" />
+      <entry feature="StripeButton[Database].hidden" count="2" />
+      <entry feature="StripeButton[Maven Projects].hidden" count="4" />
+      <entry feature="StripeButton[SOQL Query].hidden" count="2" />
+      <entry feature="StripeButton[Version Control].shown" count="2" />
+      <entry feature="diff.DirDiffTableModel" count="70" />
+      <entry feature="diff.DirDiffViewer" count="65" />
+      <entry feature="execute.ApexOfflineDebuggerConfigurationType.Debug" count="1" />
+      <entry feature="execute.NodeJSConfigurationType.Debug" count="26" />
+      <entry feature="execute.com.illuminatedcloud.intellij.Coverage" count="7" />
+      <entry feature="execute.com.illuminatedcloud.intellij.Debug" count="1" />
+      <entry feature="execute.com.illuminatedcloud.intellij.Run" count="132" />
+      <entry feature="execute.js.build_tools.gulp.Debug" count="13" />
+      <entry feature="execute.js.build_tools.gulp.Run" count="9" />
+      <entry feature="ide.settings.Apex" count="1" />
+      <entry feature="ide.settings.Appearance" count="7" />
+      <entry feature="ide.settings.Code_Folding" count="1" />
+      <entry feature="ide.settings.Code_Style" count="1" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="3" />
+      <entry feature="ide.settings.Console" count="2" />
+      <entry feature="ide.settings.Edit_File_Template" count="1" />
+      <entry feature="ide.settings.File_Types" count="2" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="1" />
+      <entry feature="ide.settings.Font" count="2" />
+      <entry feature="ide.settings.HTML" count="1" />
+      <entry feature="ide.settings.Illuminated_Cloud" count="4" />
+      <entry feature="ide.settings.Illuminated_Cloud_(&lt;new_project&gt;)" count="2" />
+      <entry feature="ide.settings.Illuminated_Cloud_(ICMA-DevR2)" count="2" />
+      <entry feature="ide.settings.Illuminated_Cloud_(NHBC-presenter)" count="1" />
+      <entry feature="ide.settings.Illuminated_Cloud™" count="3" />
+      <entry feature="ide.settings.Illuminated_Cloud™_(&lt;new_project&gt;)" count="3" />
+      <entry feature="ide.settings.Illuminated_Cloud™_(PersonalOrg)" count="1" />
+      <entry feature="ide.settings.JavaScript" count="6" />
+      <entry feature="ide.settings.Live_Templates" count="9" />
+      <entry feature="ide.settings.Other_File_Types" count="1" />
+      <entry feature="ide.settings.Plugins" count="3" />
+      <entry feature="ide.settings.Project_Structure" count="1" />
+      <entry feature="ide.settings.Version_Control" count="1" />
+      <entry feature="ideaapp.started" count="53" />
+      <entry feature="terminal.mac" count="127" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Plugins" count="1" />
+    </counts>
+  </component>
+</application>
