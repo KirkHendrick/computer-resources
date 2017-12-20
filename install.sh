@@ -1,4 +1,4 @@
-# copy config files
+echo "Copying config files..."
 cp -r .vim ~/.vim
 cp .vimrc ~/.vimrc
 cp .ideavimrc ~/.ideavimrc
@@ -8,11 +8,24 @@ cp .bash_profile ~/.bashrc
 
 cp .gitconfig ~/.gitconfig
 
-# install vundle & vim plugins
+echo "Installing Homebrew..."
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+echo "Installing vim & vim plugins..."
+brew install macvim --with-override-system-vim
 vim +PluginInstall +qall
 
-# install Homebrew
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+echo "Installing other utilities..."
+brew install node ant
+
+echo "Installing other applications..."
+cp -r Caffeine.app ~/Applications
+cp -r Spectacle.app ~/Applications
+
+echo "Launching applications..."
+open ~/Applications/Caffeine.app
+open ~/Applications/Spectacle.app
 
 # manual steps:
 #	download & setup iterm2
+#	install Ubuntu Mono font
