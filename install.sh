@@ -16,7 +16,7 @@ brew install macvim --with-override-system-vim
 vim +PluginInstall +qall
 
 echo "Installing other utilities..."
-brew install node ant
+brew install node ant mas
 
 echo "Installing other applications..."
 cp -r Caffeine.app ~/Applications
