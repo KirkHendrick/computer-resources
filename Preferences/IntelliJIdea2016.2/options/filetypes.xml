@@ -1,9 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern="2017" type="PLAIN_TEXT" />
-      <mapping pattern="2017 goals" type="PLAIN_TEXT" />
-      <mapping pattern="MockQueryHelper.js" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>
