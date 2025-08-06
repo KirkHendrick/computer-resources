@@ -1,0 +1,56 @@
+{
+    "vim.insertModeKeyBindings": [
+        {
+            "before": ["j", "j"],
+            "after": ["<Esc>"]
+        }
+    ],
+    "editor.fontSize": 15,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.stickyScroll.enabled": false,
+    "redhat.telemetry.enabled": false,
+    "editor.inlineSuggest.enabled": false,
+    "editor.inlineSuggest.suppressSuggestions": true,
+    "salesforcedx-vscode-core.retrieve-test-code-coverage": true,
+    "editor.fontLigatures": false,
+    "workbench.colorTheme": "Nordic Midnight",
+    "editor.minimap.enabled": false,
+    "editor.cursorBlinking": "phase",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.wordWrap": "on",
+    "workbench.startupEditor": "none",
+    "window.zoomLevel": -0.5,
+
+
+    "terminal.integrated.suggest.enabled": true,
+    "workbench.tips.enabled": false,
+    "breadcrumbs.enabled": false,
+    "workbench.tree.enableStickyScroll": false,
+    "gitlens.currentLine.enabled": false,
+    "material-icon-theme.hidesExplorerArrows": true,
+    "workbench.tree.renderIndentGuides": "none",
+    "workbench.tree.indent": 12,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "explorer.decorations.badges": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.lightbulb.enabled": "off", 
+    "editor.guides.indentation": false,
+    "editor.renderLineHighlight": "none",
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "editor.overviewRulerBorder": false,
+    "editor.hideCursorInOverviewRuler": true,
+
+    "chat.commandCenter.enabled": false,
+    "workbench.layoutControl.enabled": false,
+    "window.commandCenter": false,
+    "workbench.editor.editorActionsLocation": "hidden",
+    "workbench.editor.wrapTabs": true,
+    "editor.colorDecorators": false,
+    "workbench.statusBar.visible": false,
+    "workbench.panel.showLabels": false,
+    "workbench.editor.empty.hint": "hidden"
+}
