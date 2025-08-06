@@ -1,41 +1,50 @@
 {
+    // vim
     "vim.insertModeKeyBindings": [
         {
             "before": ["j", "j"],
             "after": ["<Esc>"]
         }
     ],
-    "editor.fontSize": 15,
-    "[html]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "editor.stickyScroll.enabled": false,
-    "redhat.telemetry.enabled": false,
-    "editor.inlineSuggest.enabled": false,
-    "editor.inlineSuggest.suppressSuggestions": true,
-    "salesforcedx-vscode-core.retrieve-test-code-coverage": true,
-    "editor.fontLigatures": false,
+
+    // theming
     "workbench.colorTheme": "Nordic Midnight",
-    "editor.minimap.enabled": false,
-    "editor.cursorBlinking": "phase",
-    "editor.cursorSmoothCaretAnimation": "on",
-    "editor.wordWrap": "on",
-    "workbench.startupEditor": "none",
+    "material-icon-theme.hidesExplorerArrows": true,
+    "workbench.iconTheme": "material-icon-theme",
+
+    // environment
     "window.zoomLevel": -0.5,
-
-
-    "terminal.integrated.suggest.enabled": true,
+    "workbench.startupEditor": "none",
     "workbench.tips.enabled": false,
+    "security.workspace.trust.untrustedFiles": "open",
     "breadcrumbs.enabled": false,
     "workbench.tree.enableStickyScroll": false,
     "gitlens.currentLine.enabled": false,
-    "material-icon-theme.hidesExplorerArrows": true,
     "workbench.tree.renderIndentGuides": "none",
     "workbench.tree.indent": 12,
     "explorer.confirmDragAndDrop": false,
     "explorer.confirmDelete": false,
     "explorer.decorations.badges": false,
-    "workbench.iconTheme": "material-icon-theme",
+    "workbench.statusBar.visible": false,
+    "workbench.panel.showLabels": false,
+    "workbench.editor.empty.hint": "hidden",
+    "chat.commandCenter.enabled": false,
+    "workbench.layoutControl.enabled": false,
+    "window.commandCenter": false,
+    "workbench.editor.editorActionsLocation": "hidden",
+    "workbench.editor.wrapTabs": true,
+
+    // editor
+    "editor.fontSize": 15,
+    "editor.stickyScroll.enabled": false,
+    "editor.inlineSuggest.enabled": false,
+    "editor.inlineSuggest.suppressSuggestions": true,
+    "editor.fontLigatures": false,
+    "editor.minimap.enabled": false,
+    "editor.cursorBlinking": "phase",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.wordWrap": "on",
+    "editor.linkedEditing": true,
     "editor.lightbulb.enabled": "off", 
     "editor.guides.indentation": false,
     "editor.renderLineHighlight": "none",
@@ -43,14 +52,23 @@
     "editor.scrollbar.vertical": "hidden",
     "editor.overviewRulerBorder": false,
     "editor.hideCursorInOverviewRuler": true,
-
-    "chat.commandCenter.enabled": false,
-    "workbench.layoutControl.enabled": false,
-    "window.commandCenter": false,
-    "workbench.editor.editorActionsLocation": "hidden",
-    "workbench.editor.wrapTabs": true,
     "editor.colorDecorators": false,
-    "workbench.statusBar.visible": false,
-    "workbench.panel.showLabels": false,
-    "workbench.editor.empty.hint": "hidden"
+
+    // terminal
+    "terminal.integrated.suggest.enabled": true,
+    "terminal.integrated.cursorStyleInactive": "none",
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.initialHint": false,
+    "terminal.integrated.smoothScrolling": true,
+
+    // salesforce
+    "salesforcedx-vscode-core.retrieve-test-code-coverage": true,
+
+    // code
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+
+    // misc
+    "redhat.telemetry.enabled": false,
 }
