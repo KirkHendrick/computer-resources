@@ -1,5 +1,0 @@
-map <Space> <Leader>
-
-ino jj <esc>
-cno jj <c-c>
-

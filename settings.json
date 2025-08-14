@@ -1,3 +1,5 @@
+// VS Code User Settings
+
 {
     // vim
     "vim.insertModeKeyBindings": [
@@ -13,7 +15,7 @@
     "workbench.iconTheme": "material-icon-theme",
 
     // environment
-    "window.zoomLevel": -0.5,
+    "window.zoomLevel": -0.75,
     "workbench.startupEditor": "none",
     "workbench.tips.enabled": false,
     "security.workspace.trust.untrustedFiles": "open",
@@ -28,19 +30,24 @@
     "workbench.statusBar.visible": false,
     "workbench.panel.showLabels": false,
     "workbench.editor.empty.hint": "hidden",
-    "chat.commandCenter.enabled": false,
-    "workbench.layoutControl.enabled": false,
     "window.commandCenter": false,
     "workbench.editor.editorActionsLocation": "hidden",
     "workbench.editor.wrapTabs": true,
+    "files.autoSave": "onFocusChange",
+    "files.exclude": {
+        "**/node_modules": true,
+        "**/**-meta.xml": true
+    },
+    "workbench.layoutControl.enabled": false,
 
     // editor
-    "editor.fontSize": 15,
+    "editor.fontSize": 17,
     "editor.stickyScroll.enabled": false,
     "editor.inlineSuggest.enabled": false,
     "editor.inlineSuggest.suppressSuggestions": true,
     "editor.fontLigatures": false,
-    "editor.minimap.enabled": false,
+    "editor.minimap.autohide": true,
+    "editor.minimap.renderCharacters": false,
     "editor.cursorBlinking": "phase",
     "editor.cursorSmoothCaretAnimation": "on",
     "editor.wordWrap": "on",
@@ -53,6 +60,12 @@
     "editor.overviewRulerBorder": false,
     "editor.hideCursorInOverviewRuler": true,
     "editor.colorDecorators": false,
+    "editor.foldingHighlight": false,
+    "editor.hover.delay": 2000,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.smoothScrolling": true,
+    "editor.fontFamily": "Ubuntu Mono, Menlo, Monaco, 'Courier New', monospace",
+    "diffEditor.experimental.showMoves": true,
 
     // terminal
     "terminal.integrated.suggest.enabled": true,
@@ -71,4 +84,6 @@
 
     // misc
     "redhat.telemetry.enabled": false,
+
+    // new
 }
