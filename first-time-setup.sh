@@ -46,10 +46,10 @@ else
 fi
 
 echo "Installing utilities..."
-brew install git npx mas python3 tmux gh
+brew install git node mas python3 tmux gh
 
 echo "Installing essential casks..."
-brew install --cask google-chrome google-drive obsidian obs discord slack raycast iterm2
+brew install --cask google-chrome google-drive obsidian obs discord slack raycast iterm2 rectangle
 
 echo "Installing non-essential casks..."
 brew install --cask zen-browser
@@ -57,12 +57,7 @@ brew install --cask zen-browser
 echo "Installing VS Code &  extensions..."
 brew install --cask visual-studio-code
 
-cat << EOF >> ~/.zprofile
-# Add Visual Studio Code (code)
-export PATH="\$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
-EOF
-
-code --install-extension daltonmenezes.aura-theme
+code --install-extension abdi.nordic-midnight
 code --install-extension alefragnani.bookmarks
 code --install-extension yzhang.markdown-all-in-one
 code --install-extension pkief.material-icon-theme
@@ -77,15 +72,14 @@ code --install-extension anthropic.claude-code
 echo "Installing fonts..."
 brew install --cask font-jetbrains-mono font-ubuntu-mono
 
+### Needs sudo
+
 echo "Copying config files..."
 cp .vimrc ~/.vimrc
 cp .zshrc ~/.zshrc
 cp .bash_profile ~/.bash_profile
 cp .bash_profile ~/.bashrc
 cp .gitconfig ~/.gitconfig
-
-echo "Installing vim & vim plugins..."
-brew install macvim --with-override-system-vim
 
 echo "Configuring MacOS settings..."
 echo "Showing hidden files..."
@@ -96,3 +90,8 @@ killall Finder
 
 # manual steps (for now)
 # Seventeenlands
+
+# notes from installing new mac
+# sections aren't clear - add #### blocks or something to separate them
+# macvim section didn't work - can be removed/updated to neovim
+# separate scripts for the ones that need sudo
