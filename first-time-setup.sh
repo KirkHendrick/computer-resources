@@ -49,7 +49,7 @@ echo "Installing utilities..."
 brew install git node mas python3 tmux gh
 
 echo "Installing essential casks..."
-brew install --cask google-chrome google-drive obsidian obs discord slack raycast iterm2 rectangle
+brew install --cask google-chrome google-drive obsidian obs discord slack raycast iterm2 rectangle vlc
 
 echo "Installing non-essential casks..."
 brew install --cask zen-browser
